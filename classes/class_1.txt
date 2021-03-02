@@ -1,0 +1,13 @@
+Class: Bag
+
+Attributes:
+bagColor (string)
+isClean (boolean)
+numberOfWheels (integer)
+bagTagShape (array)
+
+Methods:
+sprayPaint (changes bagColor attribute)
+drop (changes isClean to false)
+unscrewWheel (subtracts 1 from numberOfWheels)
+buyTag (adds a shape to bagTagShape array)
