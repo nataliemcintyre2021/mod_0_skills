@@ -1,0 +1,13 @@
+Class: ServiceAnimal
+
+Attributes:
+hasFourLegs (boolean)
+color (string)
+age (integer)
+foodItems (array)
+
+Methods:
+fallDownStairs (changes hasFourLegs to false)
+usePurpleShampoo (changes color attribute to purple)
+hasBirthday (adds 1 to age)
+visitTreatStation (adds an item to foodItems array)
