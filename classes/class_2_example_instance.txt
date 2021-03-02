@@ -1,0 +1,13 @@
+Object: Dog
+
+Attributes:
+hasFourLegs = true
+color = "white"
+age = 3
+foodItems = ["turkey", "eggs", "chicken"]
+
+Methods:
+fallDownStairs: hasFourLegs = false
+usePurpleShampoo: color = "purple"
+hasBirthday: age = 4
+visitTreatStation: foodItems = ["turkey", "eggs", "chicken", "cookie"]
