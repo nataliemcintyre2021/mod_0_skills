@@ -1,0 +1,13 @@
+Object: Suitcase
+
+Attributes:
+bagColor = "blue"
+isClean = true
+numberOfWheels = 4
+bagTagShape = ["circle", "square", "rectangle"]
+
+Methods:
+sprayPaint: bagColor = "black"
+drop: isClean = false
+unscrewWheel: numberOfWheels = 3
+buyTag: bagTagShape = ["circle", "square", "rectangle", "diamond"]
