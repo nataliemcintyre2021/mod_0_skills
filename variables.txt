@@ -1,0 +1,9 @@
+var movie = "Cinderella";
+var isEntertaining = true;
+movie = "Spiderman";
+var num4 = 100;
+var num6 = 80;
+var product = (num4 * num6);
+var favoriteFoods = ["milk", "cheese", "candy"];
+favoriteFoods.shift();
+console.log(movie.length);
